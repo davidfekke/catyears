@@ -1,6 +1,6 @@
 {
   "name": "catyears",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A function to calculate cat years.",
   "main": "lib/catyears.js",
   "directories": {
