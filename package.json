@@ -1,6 +1,6 @@
 {
   "name": "catyears",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "A function to calculate cat years.",
   "main": "lib/catyears.js",
   "directories": {
@@ -30,7 +30,7 @@
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4",
-	"gulp": "^3.6.0",
+    "gulp": "^3.6.0",
     "gulp-eslint": "^1.0.0",
     "gulp-exclude-gitignore": "^1.0.0",
     "gulp-istanbul": "^0.9.0",
